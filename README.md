@@ -1,7 +1,41 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Nirmal K - Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal website! This site showcases my portfolio, work experiences, and contact details. It's a React-based web application hosted on [Vercel](https://vercel.com/). You can visit the live site at the link below:
+
+🌐 **[Nirmal Personal Website](https://nirmal-personal-website.vercel.app/)**
+
+---
+
+## Features
+
+- **Homepage**: Introduces who I am, including a professional summary and my skills.
+- **About Section**: Provides more detailed information about my background, education, and career goals.
+- **Experience Section**: Displays a timeline of my professional work experience and internships.
+- **Contact Form**: Allows visitors to reach out to me directly via email. The form integrates with EmailJS for backend-free email handling.
+- **Responsive Design**: The site is mobile-friendly and adapts well to various screen sizes.
+
+---
+
+## Technologies Used
+
+- **React.js**: JavaScript library for building the user interface.
+- **Tailwind CSS**: For styling and responsive design.
+- **EmailJS**: For handling contact form submissions and sending emails without a backend.
+- **Toastify**: For showing notifications (success/failure) for form submissions.
+- **Vercel**: For deployment and hosting the site.
+
+---
+
+## Setup & Installation
+
+If you want to run this project locally, follow these steps:
+
+### 1. Clone the Repository
+
+git clone https://github.com/Nirmal1363/Nirmal-Personal-Website.git
+cd Nirmal-Personal-Website
+
+<<<<<<< HEAD
 
 ## Available Scripts
 
@@ -10,7 +44,6 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -18,7 +51,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -27,8 +59,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -40,36 +70,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# Nirmal-Personal-Website
-Nirmal Personal Website
->>>>>>> b6f7f49d6fbf05d759f256e592d28b42a02c93b5
